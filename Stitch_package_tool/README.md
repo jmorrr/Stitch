@@ -14,7 +14,7 @@ Stitch is used in Python 3=> environment.
 
 ### Usage
 Stitch is used by executing 'stitch_RUN.py', which by default opens up a graphical
-user interface. Refer to Stitch_UserManual.pdf for full usage instructions.
+user interface. Refer to Stitch_user_manual.pdf for full usage instructions.
 
 
 ### Authors
