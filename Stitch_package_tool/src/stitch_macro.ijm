@@ -236,4 +236,4 @@ run("Enhance Contrast", "saturated=0.35");
 } else {
 print("Macro could not be performed on " + fused_tiff)
 }
-print("macro process completed on" + fused_tiff);
+print("macro process completed on " + fused_tiff);
