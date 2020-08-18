@@ -1,7 +1,7 @@
 paths = getArgument()
 print(paths);
 
-listy = split(paths, " ")
+listy = split(paths, "<>")
 
 companion_ome = listy[1]
 print(companion_ome)
