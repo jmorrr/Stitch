@@ -484,6 +484,7 @@ def main(root_dir_path):
                  + str(yes_orig))
     logging.info('Run imageJ macro = ' + str(yes_macro))
     logging.info('Run on companion.ome file only = ' + str(ome_process))
+    logging.info('Multiplier value set as: ' + str(mult_const))
 
     # First returns any companion.ome files from C_OME_FILES directory
     try:
