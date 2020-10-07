@@ -23,6 +23,9 @@ user interface. Refer to Stitch_user_manual.pdf for full usage instructions.
     Jorge Fuentes
 
 ### Acknowledgments and References
+
+    Josef Gullmets - [Hietakangas laboratory](https://www.helsinki.fi/en/researchgroups/nutrient-sensing/)
+
     Ville Hietakangas - [Hietakangas laboratory](https://www.helsinki.fi/en/researchgroups/nutrient-sensing/)
     
     Jaakko Mattila - [Mattila laboratory](https://www.helsinki.fi/en/researchgroups/metabolism-and-signaling/)
