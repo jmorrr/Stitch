@@ -10,7 +10,7 @@ and a companion.ome metadata file. However, this programme can also be used for 
 processing ONLY using a companion.ome metadata file associated with a tiff series.
 
 ### Installation
-Stitch is used in Python 3=> environment. 
+Stitch is used in Python >= 3 environment. 
 
 ### Usage
 Stitch is used by executing 'stitch_RUN.py', which by default opens up a graphical
